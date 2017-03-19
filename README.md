@@ -1,0 +1,1 @@
+Goal: Build a data visualization scaffold in Node.js using MongoDB as the store, D3.js and Dc.js for the frontend, mongoose.js doc-obj mapping to drive scaffolding.
