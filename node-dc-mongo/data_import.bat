@@ -1,0 +1,1 @@
+mongoimport -d baseball -c salaries --type csv --headerline --file sample_data\baseballdatabank-2017.1\core\Salaries.csv
