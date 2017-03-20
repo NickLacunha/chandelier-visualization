@@ -1,0 +1,25 @@
+{
+  "name": "chandelier-scaffold",
+  "description": "Data visualization scaffolding",
+  "main": "c-s.js",
+  "authors": [
+    "NickLacunha <njpadinha@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dcjs": "^2.1.4",
+    "d3": "^4.7.3"
+  },
+  "resolutions": {
+    "d3": "3.x"
+  }
+}
